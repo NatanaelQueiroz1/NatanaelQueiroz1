@@ -6,6 +6,19 @@
 <br>
 <br>
 
+👨‍💻 Trabalhando atualmente no setor Administrativo.
+
+👨‍🎓 Formado em ADS.
+
+🤖 Desde jovem, sempre fui apaixonado por tecnologias, e empre tive a curiosidade de saber como as coisas fuincionavam.
+
+🍀 Tive a oportunidade me formar, e hoje busco aprender a cada dia mais, para que eu possa mudar de carreira e seguir meu sonho.
+
+🧠 Em constante desenvolvimento  
+
+<br>
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=natanaelqueiroz1&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" alt="Natanael Queiroz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelqueiroz1&layout=compact&hide_border=true&title_color=2E8B57&text_color=2E8B57&bg_color=0d1117" />
